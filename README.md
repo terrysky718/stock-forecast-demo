@@ -2,14 +2,14 @@
 A demonstration of stock price forecast software using machine learning techniques
 
 Apple (AAPL)
-![alt text]()
+![alt text](daily-forecast/AAPL.png)
 
 Cisco Systems (CSCO)
-![alt text]()
+![alt text](daily-forecast/CSCO.png)
 
 Microsoft (MSFT)
-![alt text]()
+![alt text](daily-forecast/MSFT.png)
 
 Micron Technology (MU)
-![alt text]()
+![alt text](daily-forecast/MU.png)
 
