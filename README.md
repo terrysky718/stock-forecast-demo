@@ -9,9 +9,21 @@ Apple (AAPL)
 Cisco Systems (CSCO)
 ![alt text](daily-forecast/CSCO.png)
 
+Intel (INTC)
+![alt text](daily-forecast/INTC.png)
+
 Microsoft (MSFT)
 ![alt text](daily-forecast/MSFT.png)
 
 Micron Technology (MU)
 ![alt text](daily-forecast/MU.png)
+
+Nvidia (NVDA)
+![alt text](daily-forecast/NVDA.png)
+
+Quadcom (QCOM)
+![alt text](daily-forecast/QCOM.png)
+
+Verizon (VZ)
+![alt text](daily-forecast/VZ.png)
 
