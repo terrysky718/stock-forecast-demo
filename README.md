@@ -9,6 +9,9 @@ Apple (AAPL)
 Cisco Systems (CSCO)
 ![alt text](daily-forecast/CSCO.png)
 
+General Electric (GE)
+![alt text](daily-forecast/GE.png)
+
 Intel (INTC)
 ![alt text](daily-forecast/INTC.png)
 
