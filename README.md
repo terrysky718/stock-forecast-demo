@@ -12,9 +12,6 @@ Cisco Systems (CSCO)
 General Electric (GE)
 ![alt text](daily-forecast/GE.png)
 
-Intel (INTC)
-![alt text](daily-forecast/INTC.png)
-
 Microsoft (MSFT)
 ![alt text](daily-forecast/MSFT.png)
 
@@ -23,10 +20,4 @@ Micron Technology (MU)
 
 Nvidia (NVDA)
 ![alt text](daily-forecast/NVDA.png)
-
-Quadcom (QCOM)
-![alt text](daily-forecast/QCOM.png)
-
-Verizon (VZ)
-![alt text](daily-forecast/VZ.png)
 
