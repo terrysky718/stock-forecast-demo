@@ -18,6 +18,4 @@ Microsoft (MSFT)
 Micron Technology (MU)
 ![alt text](daily-forecast/MU.png)
 
-Nvidia (NVDA)
-![alt text](daily-forecast/NVDA.png)
 
