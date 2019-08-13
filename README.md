@@ -18,4 +18,7 @@ Microsoft (MSFT)
 Micron Technology (MU)
 ![alt text](daily-forecast/MU.png)
 
+Neogenomics (NEO)
+![alt text](daily-forecast/NEO.png)
+
 
