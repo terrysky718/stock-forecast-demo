@@ -12,7 +12,10 @@ Cisco Systems (CSCO)
 General Electric (GE)
 ![alt text](daily-forecast/GE.png)
 
-Microsoft (MSFT)
+Intel Corp (INTC)
+![alt text](daily-forecast/INTC.png)
+
+Microsoft Corp (MSFT)
 ![alt text](daily-forecast/MSFT.png)
 
 Micron Technology (MU)
@@ -21,4 +24,9 @@ Micron Technology (MU)
 Neogenomics (NEO)
 ![alt text](daily-forecast/NEO.png)
 
+NVIDIA Corp (NVDA)
+![alt text](daily-forecast/NVDA.png)
+
+Verizon Communications (VZ)
+![alt text](daily-forecast/VZ.png)
 
