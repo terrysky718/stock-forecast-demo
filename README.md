@@ -3,6 +3,9 @@ A technology demonstration of stock price forecast software using machine learni
 
 Using the most updated stock price data, the close prices for upcoming 4 trading days are forecasted.  Forecast results are updated daily before the next trading day.
 
+S&P500 ETF Trust (SPY)
+![alt text](daily-forecast/SPY.png)
+
 Apple (AAPL)
 ![alt text](daily-forecast/AAPL.png)
 
