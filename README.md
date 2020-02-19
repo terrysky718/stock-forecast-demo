@@ -15,6 +15,9 @@ Cisco Systems (CSCO)
 General Electric (GE)
 ![alt text](daily-forecast/GE.png)
 
+Intel Corp (INTC)
+![alt text](daily-forecast/INTC.png)
+
 Microsoft Corp (MSFT)
 ![alt text](daily-forecast/MSFT.png)
 
@@ -26,6 +29,9 @@ Neogenomics (NEO)
 
 NVIDIA Corp (NVDA)
 ![alt text](daily-forecast/NVDA.png)
+
+Qualcom (QCOM)
+![alt text](daily-forecast/QCOM.png)
 
 Verizon Communications (VZ)
 ![alt text](daily-forecast/VZ.png)
