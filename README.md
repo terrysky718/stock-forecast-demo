@@ -18,8 +18,14 @@ General Electric (GE)
 Intel Corp (INTC)
 ![alt text](daily-forecast/INTC.png)
 
+JP Morgan Chase (JPM)
+![alt text](daily-forecast/JPM.png)
+
 Microsoft Corp (MSFT)
 ![alt text](daily-forecast/MSFT.png)
+
+Morgan Stanley (MS)
+![alt text](daily-forecast/MS.png)
 
 Micron Technology (MU)
 ![alt text](daily-forecast/MU.png)
@@ -36,3 +42,5 @@ Qualcom (QCOM)
 Verizon Communications (VZ)
 ![alt text](daily-forecast/VZ.png)
 
+Wells Fargo Corp (WFC)
+![alt text](daily-forecast/WFC.png)
