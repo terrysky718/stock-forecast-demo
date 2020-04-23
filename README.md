@@ -1,5 +1,5 @@
 # Stock Price Movement Forecast demo
-A technology demonstration of stock price forecast software using machine learning techniques.  Four companies' stock prices are forecasted in this demonstration.  Other companies' data can be used for analysis and forecast purposes.
+A technology demonstration of stock price forecast software using machine learning techniques.  Multiple companies' stock prices are forecasted in this demonstration.  Different companies' data can be used for analysis and forecast purposes.
 
 Using the most updated stock price data, the close prices for upcoming 4 trading days are forecasted.  Forecast results are updated daily before the next trading day.
 
@@ -35,6 +35,9 @@ Neogenomics (NEO)
 
 NVIDIA Corp (NVDA)
 ![alt text](daily-forecast/NVDA.png)
+
+Owen and Minors (OMI)
+![alt text](daily-forecast/OMI.png)
 
 Qualcom (QCOM)
 ![alt text](daily-forecast/QCOM.png)
